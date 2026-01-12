@@ -13,8 +13,8 @@
   "source_files": "FXKeychain/FXKeychain.{h,m}",
   "requires_arc": true,
   "platforms": {
-    "ios": "4.3",
-    "osx": "10.6"
+    "ios": "16.0",
+    "visionos": "2.0"
   },
   "frameworks": "Security"
 }
